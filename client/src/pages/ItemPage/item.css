@@ -1,0 +1,147 @@
+.itemName {
+    margin-bottom: 20px;
+}
+.btn.btn-outline-primary.red {
+    border-color: red !important;
+    color: red !important;
+}
+
+.btn.btn-outline-primary.red:hover, .btn.btn-outline-primary.red:active {
+    background-color: red !important;
+    color: white !important;
+}
+
+.btn-check.red:focus + .btn-outline-primary.red, .btn-outline-primary.red:focus {
+    box-shadow: 0 0 0 .25rem rgba(255,0,0,.5) !important;
+}
+
+.btn-check.red:active + .btn-outline-primary.red, .btn-check.red:checked + .btn-outline-primary.red {
+    color: #fff !important;
+    background-color: red !important;
+    border-color: red !important;
+}
+
+.btn.btn-outline-primary.green {
+    border-color: green !important;
+    color: green !important;
+}
+
+.btn.btn-outline-primary.green:hover, .btn.btn-outline-primary.green:active {
+    background-color: green !important;
+    color: white !important;
+}
+
+.btn-check.green:focus + .btn-outline-primary.green, .btn-outline-primary.green:focus {
+    box-shadow: 0 0 0 .25rem rgba(0,255,0,.5) !important;
+}
+
+.btn-check.green:active + .btn-outline-primary.green, .btn-check.green:checked + .btn-outline-primary.green {
+    color: #fff !important;
+    background-color: green !important;
+    border-color: green !important;
+}
+
+.btn.btn-outline-primary.black {
+    border-color: black !important;
+    color: black !important;
+}
+
+.btn.btn-outline-primary.black:hover, .btn.btn-outline-primary.black:active {
+    background-color: black !important;
+    color: white !important;
+}
+
+.btn-check.black:focus + .btn-outline-primary.black, .btn-outline-primary.black:focus {
+    box-shadow: 0 0 0 .25rem rgba(0,0,0,.5) !important;
+}
+
+.btn-check.black:active + .btn-outline-primary.black, .btn-check.black:checked + .btn-outline-primary.black {
+    color: #fff !important;
+    background-color: black !important;
+    border-color: black !important;
+}
+
+.btn.btn-outline-primary.white {
+    border-color: gray !important;
+    color: gray !important;
+}
+
+.btn.btn-outline-primary.white:hover, .btn.btn-outline-primary.white:active {
+    background-color: white !important;
+    color: gray !important;
+}
+
+.btn-check.white:focus + .btn-outline-primary.white, .btn-outline-primary.white:focus {
+    box-shadow: 0 0 0 .25rem rgba(0,0,0,.2) !important;
+}
+
+.btn-check.white:active + .btn-outline-primary.white, .btn-check.white:checked + .btn-outline-primary.white {
+    color: gray !important;
+    background-color: white !important;
+    border-color: gray !important;
+}
+
+.btn.btn-outline-primary.blue {
+    border-color: blue !important;
+    color: blue !important;
+}
+
+.btn.btn-outline-primary.blue:hover, .btn.btn-outline-primary.blue:active {
+    background-color: blue !important;
+    color: #fff !important;
+}
+
+.btn-check.blue:focus + .btn-outline-primary.blue, .btn-outline-primary.blue:focus {
+    box-shadow: 0 0 0 .25rem rgba(0,0,255,.5) !important;
+}
+
+.btn-check.blue:active + .btn-outline-primary.blue, .btn-check.blue:checked + .btn-outline-primary.blue {
+    color: #fff !important;
+    background-color: blue !important;
+    border-color: blue !important;
+}
+
+.btn.btn-outline-primary.yellow {
+    border-color: #ffcc00 !important;
+    color: #ffcc00 !important;
+}
+
+.btn.btn-outline-primary.yellow:hover, .btn.btn-outline-primary.yellow:active {
+    background-color: yellow !important;
+    color: #000 !important;
+}
+
+.btn-check.yellow:focus + .btn-outline-primary.yellow, .btn-outline-primary.yellow:focus {
+    box-shadow: 0 0 0 .25rem rgba(255,204,0,.5) !important;
+}
+
+.btn-check.yellow:active + .btn-outline-primary.yellow, .btn-check.yellow:checked + .btn-outline-primary.yellow {
+    color: #000 !important;
+    background-color: yellow !important;
+    border-color: yellow !important;
+}
+
+.btn.btn-outline-primary.brown {
+    border-color: brown !important;
+    color: brown !important;
+}
+
+.btn.btn-outline-primary.brown:hover, .btn.btn-outline-primary.brown:active {
+    background-color: brown !important;
+    color: #fff !important;
+}
+
+.btn-check.brown:focus + .btn-outline-primary.brown, .btn-outline-primary.brown:focus {
+    box-shadow: 0 0 0 .25rem rgba(150,75,0,.5) !important;
+}
+
+.btn-check.brown:active + .btn-outline-primary.brown, .btn-check.brown:checked + .btn-outline-primary.brown {
+    color: #fff !important;
+    background-color: brown !important;
+    border-color: brown !important;
+}
+
+.add-to-cart-btn {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
